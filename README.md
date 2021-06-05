@@ -1,1 +1,0 @@
-# interviewbit-databases-sql
